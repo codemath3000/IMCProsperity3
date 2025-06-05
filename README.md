@@ -1,2 +1,2 @@
-# IMCProsperity3
-This repository shows my results for the IMC Prosperity 3 trading competition.
+# IMC Prosperity 3 Results
+I was team captain for a team, named Math Island, in the IMC Prosperity 3 trading competition. We scored #102 out of 20,444 teams, placing us in the top 0.5%. Our final-round submission produced an annualized Sharpe ratio of 20.644540. The full results are included in this repository. Specifically, I have included the PnL graph and the full submission logs. The actual trading algorithm code is not included publicly, since, as of when I am writing this, some others on my team still have future years of competition eligibility prior to graduation, and they may wish to incorporate similar strategies to those that we used during this competition year. However, if you are a job recruiter or otherwise want access to the code, feel free to email me via ben@bsh.dev and I am happy to send it over directly.
